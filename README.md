@@ -30,12 +30,23 @@ Download Links:
 
 <a href="https://apps.apple.com/tr/app/space-drills/id6757345894?l=tr">Apple Store</a>
 
+## CategoLearn
+Source codes: <a href="https://github.com/ugurozdemir97/CategoLearn">CategoLearn</a>
+
+CategoLearn is a mobile application I created for organizing information and studying in a way that matches how I naturally learn.
+
+The idea came from using different flashcard applications while studying Russian. Most of them relied on simple front/back cards and offered limited ways to organize information. I wanted something more flexible, where I could divide subjects into categories and create cards containing exactly the information I needed.
+
+CategoLearn allows you to organize information into subjects, folders, and nested subfolders. For example, a language learning subject can contain categories for verbs, adjectives, vocabulary, phrases, or any other structure you want to create.
+
+![CategoLearn](https://github.com/user-attachments/assets/6a58e405-5cb5-468d-914c-9c529a7104ae)
+
 ## Qute Fighters
 Source codes: <a href="https://github.com/ugurozdemir97/QuteFighters-v0.2">Qute Fighters</a>
 
-QuteFighters is a 2D fighting game that allows two players to play locally or online. I developed this game to learn about the Qt framework and C++. I created all the animations, drawings, and sound effects myself. The name "Qute Fighters" comes from the framework I used "Qt" and that I find the characters to be "cute". The game is not complete yet. The online gameplay has synchronization issues that I need to address by adding a client prediction and roll back mechanism but local gameplay has no issues.
+QuteFighters is a 2D fighting game that allows two players to play locally or online. I developed this game to learn about the Qt framework and C++. I created all the animations, drawings, and sound effects myself. The name "Qute Fighters" comes from the framework I used "Qt" and that I find the characters to be "cute". The game is not complete yet. The online gameplay has synchronization issues that I need to address by adding a client prediction and roll back mechanism but local gameplay has no issues. I created a parallax effect using some math and trial errors that will make the map looks 3D when the characters move. 
 
-I created a parallax effect using some math and trial errors that will make the map looks 3D when the characters move.
+I wouldn't really call the game fully playable yet. I haven't spent much time actually playing it myself, since the project was mainly a prototype to see if I could build a fighting game from scratch. The core systems are there, but the moves, damage values, and overall gameplay would need serious balancing before it could feel like a complete game.
 
 ![Map](https://github.com/ugurozdemir97/QuteFighters-v0.2/assets/64408736/56c1f941-ad58-4e0e-a073-53367405d526)
 
